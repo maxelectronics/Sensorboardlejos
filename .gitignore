@@ -1,0 +1,8 @@
+*.nxd
+*.nxj
+
+*.class
+*.jar
+
+.classpath
+.project
